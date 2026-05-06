@@ -175,7 +175,7 @@ flutter run
 <img width="343" height="752" alt="Screenshot 2026-05-05 151545" src="https://github.com/user-attachments/assets/4ddfda6f-ec87-43d1-8be2-4b0b0fda3784" />
 <img width="347" height="740" alt="Screenshot 2026-05-05 151813" src="https://github.com/user-attachments/assets/5f6dbbb4-c941-495f-96ee-4d0b3ff8da54" />
 <img width="351" height="747" alt="Screenshot 2026-05-05 151822" src="https://github.com/user-attachments/assets/5e52f8cc-adc0-4c10-89cf-d4b7d2a0eb81" />
-<img width="361" height="757" alt="Screenshot 2026-05-05 150347" src="https://github.com/user-attachments/assets/a9bd240b-ee4f-45b4-b77b-3cefb59c0ecd" />
+<!-- <img width="361" height="757" alt="Screenshot 2026-05-05 150347" src="https://github.com/user-attachments/assets/a9bd240b-ee4f-45b4-b77b-3cefb59c0ecd" /> -->
 
 
 
