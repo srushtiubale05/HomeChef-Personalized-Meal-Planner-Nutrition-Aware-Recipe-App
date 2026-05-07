@@ -1084,7 +1084,7 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
   List<Map<String, String>> messages = [];
 
 
-  static const String apiKey = "AIzaSyD9bwTFRPbUCg318JnFBxBVd4CUv4slkk";
+  static const String apiKey = "KEY_HERE";
 
 
   Future<String> getBotResponse(String userMessage) async {
